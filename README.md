@@ -3,5 +3,5 @@
 
 <h3 align="center">Currently using/learning:</h3>
 <div align="center">
-  <img src="https://skillicons.dev/icons?i=html,css,js,nodejs,firebase,gcp,vscode&perline=4" />
+  <img src="https://skillicons.dev/icons?i=html,css,js,vue,firebase,gcp,vscode&perline=4" />
 </div>
